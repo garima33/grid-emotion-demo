@@ -13,7 +13,7 @@ class App extends Component {
         </DataWrapper>
       );
     });
-    return <Flex color="black">{items}</Flex>;
+    return <Flex color="#03090412">{items}</Flex>;
   }
 }
 

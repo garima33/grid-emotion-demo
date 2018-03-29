@@ -6,5 +6,5 @@ export const DataWrapper = styled("div")`
   margin: 1%;
   padding: 0.5%;
   background-color: white;
-  border-radius: 3%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
 `;
