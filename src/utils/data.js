@@ -48,7 +48,7 @@ export const data = [
     address: "Hyderabad"
   },
   {
-    name: "Rahul Ravi Prasad",
+    name: "Rahul Raviprasad",
     email: "rahulr@gmail.com",
     number: "9087564389",
     address: "Hyderabad"

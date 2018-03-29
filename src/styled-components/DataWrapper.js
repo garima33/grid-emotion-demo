@@ -1,6 +1,6 @@
 import styled, { css } from "react-emotion";
 
-export const DataItem = styled("div")`
+export const DataWrapper = styled("div")`
   width: 30%;
   height: 30%;
   margin: 1%;

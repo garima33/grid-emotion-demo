@@ -1,8 +1,7 @@
-import { DataContainer } from "./DataContainer";
-import { DataItem } from "./DataItem";
+import { DataWrapper } from "./DataWrapper";
 import { CardContainer } from "./CardContainer";
 import { Data } from "./Data";
 import { Label } from "./Label";
-import { Row } from "./Row";
+import { Flex } from "./Flex";
 
-export { Data, DataContainer, DataItem, CardContainer, Label, Row };
+export { Data, DataWrapper, CardContainer, Label, Flex };
